@@ -46,10 +46,10 @@ import tw_config
 
 # ---------------------------------------------------------------------
 # Twitter Authentication Variables
-consumer_key = tw_config.api_key_fma
-consumer_secret = tw_config.api_secret_fma
-access_token = tw_config.access_token_fma
-access_token_secret = tw_config.access_token_secret_fma
+consumer_key = tw_config.api_key
+consumer_secret = tw_config.api_secret
+access_token = tw_config.access_token
+access_token_secret = tw_config.access_token_secret
 # ---------------------------------------------------------------------
 
 # Authenticate with Twitter
